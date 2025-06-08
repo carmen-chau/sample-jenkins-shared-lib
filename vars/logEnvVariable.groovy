@@ -1,3 +1,3 @@
 void call(String envVariableName) {
-    echo "Value of ${envVariableName} is: ${env[envVariableName]}"
+    echo "Inside the helper script, the value of ${envVariableName} is: ${env[envVariableName]}"
 }
