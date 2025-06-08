@@ -1,3 +1,3 @@
-def greetings() {
-    println "Hello World"
+void call() {
+    echo "Hello from the shared library!"
 }
